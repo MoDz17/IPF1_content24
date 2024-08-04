@@ -1,0 +1,776 @@
+{
+	"name": "DIFERIDOS F1 2024",
+    "author": "MoDz",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8DUs_eptCujTHRwAxJrkaw18XZRMaXNgLzRSKagDuvYAAqlauM0l-QngGK9bK0-f2ItKqMZ62aX-wq4Bp_XTUDni3CYxh9U0t-VfshtE5Sn_4j9jyW7RSBTCoS9s9gu8Yl9FkB7qKFK40VMKFn3PYMcNFX32H1w5oi1ZcCc5-UBk8FyOhAjzYOb4f-G99/w642-h267/invisible.png",
+    "info":"IPTV oficial de FUTBOL-ADICTOS para diferidos de F1 2024",
+    "telegram": "",
+    "url": "https://raw.githubusercontent.com/MoDz17/IPF1_content24/main/code_iptv",
+    "groups": [
+        
+    {
+           "name": "IPT - ADICTOS",
+           "image": "https://i.ibb.co/PGL5P2Z/Main-pic-Logo-and-Banner.jpg",
+           "url": "https://raw.githubusercontent.com/MoDz17/IPTV_MoDz/main/code_iptv",
+           "import": false
+    }, 
+   
+    {
+            "name": "Ultm. versión 04/08/2024",
+           "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
+           "info": "última versión actualizada el 04/08/2024",
+           "stations": []
+    },
+
+    {
+        "name": "GP Bélgica",
+        "info":"",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkoDBuGLA-H3XpcccfyAA75qc8vMVj_nExz0nv86RhGMQ_25K2jcUpA-nIt3kVKiPIn1qQX3_AzyOJBO8InLo1cLP-zrSGRi92IxhtPDNOmhILPZ6fyYwVr7nIuJyecLDsD8n-DaVhwP88hwWBEGKDlL1TgxZcrrZ6f_5P-cLr1r8ShkeEHlFAMEVDByS2/w522-h453/B%C3%A9lgica.png",
+        "imageScale": "",
+        "stations":
+            [
+                {
+                "name": "Qualy",
+                "info":"DAZN F1",
+                "image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+                "url":"https://filemoon.sx/d/0pds4k7whrxk",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+		        {
+                "name": "Qualy",
+                "info":"F1 TV",
+                "image": "https://i.blogs.es/aca026/f1-tv-pro-f1-tv-access-formula-1-mexico-streaming/500_333.jpeg",
+                "url":"https://filemoon.sx/d/bnpgm2db62fe",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "Carrera",
+                "info":"DAZN F1",
+                "image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+                "url":"https://filemoon.sx/d/kwr8j91cxxp6",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+		        {
+                "name": "Carrera",
+                "info":"F1 TV",
+                "image": "https://i.blogs.es/aca026/f1-tv-pro-f1-tv-access-formula-1-mexico-streaming/500_333.jpeg",
+                "url":"https://filemoon.sx/d/coduzc85odnq",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                }
+            ]
+        },
+
+        {
+            "name": "GP Hungría",
+            "info":"",
+            "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoKx6NjOcFkrs88ESKSShmm3uOmagxN55-A_QujegocTNqNurG85kYHy_uwkDKO3myYH_RpEGTsZVGsxsmSgj3XqWGjKVRF14roOByTxypICK-WWKDWlXWV4ZpiLJL_89o-za6GPa6Aq5RK4KOL8IzMXDwtYpB1nQ9gw3TMBfnCdXQBBA1xBM2AfBn-Nam/w609-h305/Hungr%C3%ADa.png",
+            "imageScale": "",
+            "stations":
+                [
+                    {
+                    "name": "Qualy",
+                    "info":"DAZN F1",
+                    "image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+                    "url":"https://filemoon.sx/d/gy6dmm70iqnw",
+                    "userAgent": "PlusMediaPlayer/0.0.9",
+                    "isHost":"true",
+                    "online":"true"
+                    },
+                    {
+                    "name": "Qualy",
+                    "info":"ESPN",
+                    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFoCgAwvY3pqWo-gTfR1ztkB9Qdf8KTJOQ0J32bfi1s3i3-Fc_oyZOnJVbCOW4Dw7qJ2Es5Y15C3Nksg777ccGUeUf2we7Wi0v-NZrq3gWo-wivlXy6Vk8TCDxy1EhFfHRF_PWoZUDBECPnjcXkYz75-ER0uTsTNT3og97FtqTajlZQDlAyLF7pDvq4S6U/w545-h327/logo-ESPN.png",
+                    "url":"https://filemoon.sx/d/ffxxlahnfcjl",
+                    "userAgent": "PlusMediaPlayer/0.0.9",
+                    "isHost":"true",
+                    "online":"true"
+                    },
+                    {
+                    "name": "Carrera",
+                    "info":"DAZN F1",
+                    "image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+                    "url":"https://filemoon.sx/d/c0l4z1hhz1g8",
+                    "userAgent": "PlusMediaPlayer/0.0.9",
+                    "isHost":"true",
+                    "online":"true"
+                    },
+                    {
+                    "name": "Carrera",
+                    "info":"F1 TV",
+                    "image": "https://i.blogs.es/aca026/f1-tv-pro-f1-tv-access-formula-1-mexico-streaming/500_333.jpeg",
+                    "url":"https://filemoon.sx/d/pyoql0enraaf",
+                    "userAgent": "PlusMediaPlayer/0.0.9",
+                    "isHost":"true",
+                    "online":"true"
+                    }
+                ]
+            },
+
+            {
+                "name": "GP Reino Unido",
+                "info":"",
+                "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3L-4RO5a_wAW4t33yQX5IfHr39GjnnzgTQfuXPp3hdmYIIvSBsE7bjZKcOKGfC_P8Ft2Kox77iHkTbJ5h6ogaWEr9cEuKtVbeiyQyeGAcGc7YMBx229QBN3vw7_JnH5vBIrc3DE4asT8JMLXfNTNkPg9SXcSO4dwtShkTHYWLJkY1IbUb1yiwwxnoZM_U/w617-h310/Reino%20Unido.PNG",
+                "imageScale": "",
+                "stations":
+                    [
+                        {
+                        "name": "Qualy",
+                        "info":"DAZN F1",
+                        "image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+                        "url":"https://filemoon.sx/d/gsev46yc14t4",
+                        "userAgent": "PlusMediaPlayer/0.0.9",
+                        "isHost":"true",
+                        "online":"true"
+                        },
+                        {
+                        "name": "Qualy",
+                        "info":"F1 TV",
+                        "image": "https://i.ibb.co/jr7VQss/logo-off.png",
+                        "url":"",
+                        "userAgent": "PlusMediaPlayer/0.0.9",
+                        "isHost":"false",
+                        "online":"false"
+                        },
+                        {
+                        "name": "Carrera",
+                        "info":"DAZN F1",
+                        "image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+                        "url":"https://filemoon.sx/d/l01qq2a4mhuf",
+                        "userAgent": "PlusMediaPlayer/0.0.9",
+                        "isHost":"true",
+                        "online":"true"
+                        },
+                        {
+                        "name": "Carrera",
+                        "info":"F1 TV",
+                        "image": "https://i.blogs.es/aca026/f1-tv-pro-f1-tv-access-formula-1-mexico-streaming/500_333.jpeg",
+                        "url":"https://filemoon.sx/d/kbt1wrz9hf0t",
+                        "userAgent": "PlusMediaPlayer/0.0.9",
+                        "isHost":"true",
+                        "online":"true"
+                        }
+                    ]
+            },
+
+            {
+                "name": "GP Austria",
+                "info":"",
+                "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGy-gwYMbiX3C548-DV4HCvjkObvVS6dbiTxIdAq45Waf7tf_0so_6ogYWO0a-YkSz9ZSOJcsI-7TKdVCnccDulCd5deT5_zgR5mnRVahAxYMSXdb4yOpyulnHf5UmXk1c14mRH_0noDM2GycVY-aiaIIdoJMTMMx0TXONhnqbrFLYddmVETEvU0VpC6ib/w511-h341/Austria.png",
+                "imageScale": "",
+                "stations":
+                    [
+                        {
+                        "name": "Qualy Sprint",
+                        "info":"DAZN F1",
+                        "image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+                        "url":"https://filemoon.sx/d/8lgadkyj8n5t",
+                        "userAgent": "PlusMediaPlayer/0.0.9",
+                        "isHost":"true",
+                        "online":"true"
+                        },
+                        {
+                        "name": "Qualy Sprint",
+                        "info":"F1 TV",
+                        "image": "https://i.blogs.es/aca026/f1-tv-pro-f1-tv-access-formula-1-mexico-streaming/500_333.jpeg",
+                        "url":"https://filemoon.sx/d/hc3flr10rws5",
+                        "userAgent": "PlusMediaPlayer/0.0.9",
+                        "isHost":"true",
+                        "online":"true"
+                        },
+                        {
+                        "name": "Carrera Sprint",
+                        "info":"DAZN F1",
+                        "image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+                        "url":"https://filemoon.sx/d/fn1o4av7nze6",
+                        "userAgent": "PlusMediaPlayer/0.0.9",
+                        "isHost":"true",
+                        "online":"true"
+                        },
+                        {
+                        "name": "Carrera Sprint",
+                        "info":"F1 TV",
+                        "image": "https://i.blogs.es/aca026/f1-tv-pro-f1-tv-access-formula-1-mexico-streaming/500_333.jpeg",
+                        "url":"https://filemoon.sx/d/7qgshs5g23qb",
+                        "userAgent": "PlusMediaPlayer/0.0.9",
+                        "isHost":"true",
+                        "online":"true"
+                        },
+                        {
+                            "name": "Qualy",
+                            "info":"DAZN F1",
+                            "image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+                            "url":"https://filemoon.sx/d/15wp60zuxg24",
+                            "userAgent": "PlusMediaPlayer/0.0.9",
+                            "isHost":"true",
+                            "online":"true"
+                        },
+                        {
+                            "name": "Qualy",
+                            "info":"F1 TV",
+                            "image": "https://i.blogs.es/aca026/f1-tv-pro-f1-tv-access-formula-1-mexico-streaming/500_333.jpeg",
+                            "url":"https://filemoon.sx/d/1csmysgdwv36",
+                            "userAgent": "PlusMediaPlayer/0.0.9",
+                            "isHost":"true",
+                            "online":"true"
+                        },
+                        {
+                            "name": "Carrera",
+                            "info":"DAZN F1",
+                            "image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+                            "url":"https://filemoon.sx/d/2tcjxengsxg9",
+                            "userAgent": "PlusMediaPlayer/0.0.9",
+                            "isHost":"true",
+                            "online":"true"
+                        },
+                        {
+                            "name": "Carrera",
+                            "info":"F1 TV",
+                            "image": "https://i.blogs.es/aca026/f1-tv-pro-f1-tv-access-formula-1-mexico-streaming/500_333.jpeg",
+                            "url":"https://filemoon.sx/d/b7x2o513zkmz",
+                            "userAgent": "PlusMediaPlayer/0.0.9",
+                            "isHost":"true",
+                            "online":"true"
+                        }
+                    ]
+            },
+
+            {
+                "name": "GP España",
+                "info":"",
+                "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh38A8MVmF9HID2hAKeRHQHgxlLAPEESVgNAqkrxHAL8DInZMxSpTYng5kh39JrFXZ7Y0sIMV81DkHlAV1F032eCf6SAueXXq4u0JJcF1hBIvvP_Ew_mwfzaHTh0o0vyOGh-FOr85z4LWyvdtlCRlj2BcpUVF4t-X-lvwho-LPhYEqZT83boA4qgxKPeLTY/w597-h397/Espa%C3%B1a.PNG",
+                "imageScale": "",
+                "stations":
+                    [
+                        {
+                        "name": "Qualy",
+                        "info":"DAZN F1",
+                        "image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+                        "url":"https://filemoon.sx/d/4qig8msx279q",
+                        "userAgent": "PlusMediaPlayer/0.0.9",
+                        "isHost":"true",
+                        "online":"true"
+                        },
+                        {
+                        "name": "Qualy",
+                        "info":"F1 TV",
+                        "image": "https://i.blogs.es/aca026/f1-tv-pro-f1-tv-access-formula-1-mexico-streaming/500_333.jpeg",
+                        "url":"https://filemoon.sx/d/5bk5xtssvrfr",
+                        "userAgent": "PlusMediaPlayer/0.0.9",
+                        "isHost":"true",
+                        "online":"true"
+                        },
+                        {
+                        "name": "Carrera",
+                        "info":"DAZN F1",
+                        "image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+                        "url":"https://filemoon.sx/d/9k26tf3jjj6x",
+                        "userAgent": "PlusMediaPlayer/0.0.9",
+                        "isHost":"true",
+                        "online":"true"
+                        },
+                        {
+                        "name": "Carrera",
+                        "info":"F1 TV",
+                        "image": "https://i.blogs.es/aca026/f1-tv-pro-f1-tv-access-formula-1-mexico-streaming/500_333.jpeg",
+                        "url":"https://filemoon.sx/d/lu8ayjco12ma",
+                        "userAgent": "PlusMediaPlayer/0.0.9",
+                        "isHost":"true",
+                        "online":"true"
+                        }
+                    ]
+            },
+
+            {
+                "name": "GP Canadá",
+                "info":"",
+                "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhC355qDG3WR7FYzmKUVLSR1mDyFVotIdWxXuBFuQqHK_fo7f4PDOYUbOQE5bI6ERdCtH6_3Uz1_yxWEc5GqEcFQNzeqvJL7aJ5s-g2cFMSrn6W_r_gSPJFiZFiOYQVA4L3rkvdLBE7N7g9JMluEOKB1y_zuKf4HklSXLQ_aYNmxpyfOfgLVG5cXbYWVahb/w554-h277/Canad%C3%A1.png",
+                "imageScale": "",
+                "stations":
+                    [
+                        {
+                        "name": "Qualy",
+                        "info":"DAZN F1",
+                        "image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+                        "url":"https://filemoon.sx/d/fk8woili3j4t",
+                        "userAgent": "PlusMediaPlayer/0.0.9",
+                        "isHost":"true",
+                        "online":"true"
+                        },
+                        {
+                        "name": "Qualy",
+                        "info":"F1 TV",
+                        "image": "https://i.blogs.es/aca026/f1-tv-pro-f1-tv-access-formula-1-mexico-streaming/500_333.jpeg",
+                        "url":"https://filemoon.sx/d/sp7rcvrbt16p",
+                        "userAgent": "PlusMediaPlayer/0.0.9",
+                        "isHost":"true",
+                        "online":"true"
+                        },
+                        {
+                        "name": "Carrera",
+                        "info":"DAZN F1",
+                        "image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+                        "url":"https://filemoon.sx/d/3kn7i79yf1ux",
+                        "userAgent": "PlusMediaPlayer/0.0.9",
+                        "isHost":"true",
+                        "online":"true"
+                        },
+                        {
+                        "name": "Carrera",
+                        "info":"F1 TV",
+                        "image": "https://i.ibb.co/jr7VQss/logo-off.png",
+                        "url":"",
+                        "userAgent": "PlusMediaPlayer/0.0.9",
+                        "isHost":"false",
+                        "online":"false"
+                        }
+                    ]
+            },
+
+            {
+                "name": "GP Mónaco",
+                "info":"",
+                "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhR63-tjqWgY5F0rSvDKIvc3UFhcX1LTNEiEijMJeOdYKJ9rJ7LQHrqoQ58DptLpgugt6g7Now_Z-GM04diweEvbAEwcfbJQdeNDoVVshXE08jtkSeeINNQ-_VhvY0YwwXMeVFTIvjzVIpnQqoctjrwr84KSH5-VsO9a4td8xJnxZJfEk5Wutli-9Rk4nFN/w605-h363/M%C3%B3naco.png",
+                "imageScale": "",
+                "stations":
+                    [
+                        {
+                        "name": "Qualy",
+                        "info":"DAZN F1",
+                        "image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+                        "url":"https://filemoon.sx/d/nsyh0svi9xm5",
+                        "userAgent": "PlusMediaPlayer/0.0.9",
+                        "isHost":"true",
+                        "online":"true"
+                        },
+                        {
+                        "name": "Qualy",
+                        "info":"F1 TV",
+                        "image": "https://i.blogs.es/aca026/f1-tv-pro-f1-tv-access-formula-1-mexico-streaming/500_333.jpeg",
+                        "url":"https://filemoon.sx/d/giq7tup22k7g",
+                        "userAgent": "PlusMediaPlayer/0.0.9",
+                        "isHost":"true",
+                        "online":"true"
+                        },
+                        {
+                        "name": "Carrera",
+                        "info":"DAZN F1",
+                        "image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+                        "url":"https://filemoon.sx/d/7xghuxacnnns",
+                        "userAgent": "PlusMediaPlayer/0.0.9",
+                        "isHost":"true",
+                        "online":"true"
+                        },
+                        {
+                        "name": "Carrera",
+                        "info":"F1 TV",
+                        "image": "https://i.blogs.es/aca026/f1-tv-pro-f1-tv-access-formula-1-mexico-streaming/500_333.jpeg",
+                        "url":"https://filemoon.sx/d/wncdnhaos8ek",
+                        "userAgent": "PlusMediaPlayer/0.0.9",
+                        "isHost":"true",
+                        "online":"true"
+                        }
+                    ]
+            },
+
+            {
+                "name": "GP Italia (Imola)",
+                "info":"",
+                "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZUZNW1ipjdcX6OpB66u90iXgdzr4dav1n35nxSNOhyH_ZVg-oIUz8ZpIdss-BXSYzIAtbFZ5alGd2De4W9sYFn9gKqnapdeIq3c2RsCPqpu5pCqUL5Jq81g8H2V5yFxNm0Gy9SNw8eF3owRbP3E1Obm-UzcjHcgi45-6FEod44XZ9sjg2MaRdFjWhMgHl/w607-h607/Italia.png",
+                "imageScale": "",
+                "stations":
+                    [
+                        {
+                        "name": "Qualy",
+                        "info":"DAZN F1",
+                        "image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+                        "url":"https://filemoon.sx/d/d2pqs59l3qme",
+                        "userAgent": "PlusMediaPlayer/0.0.9",
+                        "isHost":"true",
+                        "online":"true"
+                        },
+                        {
+                        "name": "Qualy",
+                        "info":"F1 TV",
+                        "image": "https://i.blogs.es/aca026/f1-tv-pro-f1-tv-access-formula-1-mexico-streaming/500_333.jpeg",
+                        "url":"https://filemoon.sx/d/8rok3ulkiaew",
+                        "userAgent": "PlusMediaPlayer/0.0.9",
+                        "isHost":"true",
+                        "online":"true"
+                        },
+                        {
+                        "name": "Carrera",
+                        "info":"DAZN F1",
+                        "image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+                        "url":"https://filemoon.sx/d/gdh50guh1snm",
+                        "userAgent": "PlusMediaPlayer/0.0.9",
+                        "isHost":"true",
+                        "online":"true"
+                        },
+                        {
+                        "name": "Carrera",
+                        "info":"F1 TV",
+                        "image": "https://i.blogs.es/aca026/f1-tv-pro-f1-tv-access-formula-1-mexico-streaming/500_333.jpeg",
+                        "url":"https://filemoon.sx/d/l6qq8eg7b7w6",
+                        "userAgent": "PlusMediaPlayer/0.0.9",
+                        "isHost":"true",
+                        "online":"true"
+                        }
+                    ]
+            },
+
+            {
+                "name": "GP EEUU (Miami)",
+                "info":"",
+                "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitjO50rsB7xyM9n_TzbiljM1T3mUYJ873FMe_P_LM8RbVgtF8xJDde4FNBvmzKYu7t6VFnbAIMK-Cg11aj1TlGZRfPu_83jgSvgkXSMiSRZDx1vilabxCXtJfXYFuuviRNeaudj3A6H1zqKX4CKRZt4UwEX8Uexa-MHTgXWpnxbMcKOreBygh6Dx8flrCu/w582-h307/EEUU.png",
+                "imageScale": "",
+                "stations":
+                    [
+                        {
+                        "name": "Qualy Sprint",
+                        "info":"DAZN F1",
+                        "image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+                        "url":"https://filemoon.sx/d/v9ldorgq5ann",
+                        "userAgent": "PlusMediaPlayer/0.0.9",
+                        "isHost":"true",
+                        "online":"true"
+                        },
+                        {
+                        "name": "Qualy Sprint",
+                        "info":"F1 TV",
+                        "image": "https://i.blogs.es/aca026/f1-tv-pro-f1-tv-access-formula-1-mexico-streaming/500_333.jpeg",
+                        "url":"https://filemoon.sx/d/u5fujak45red",
+                        "userAgent": "PlusMediaPlayer/0.0.9",
+                        "isHost":"true",
+                        "online":"true"
+                        },
+                        {
+                        "name": "Carrera Sprint",
+                        "info":"DAZN F1",
+                        "image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+                        "url":"https://filemoon.sx/d/sav4wa8pp87z",
+                        "userAgent": "PlusMediaPlayer/0.0.9",
+                        "isHost":"true",
+                        "online":"true"
+                        },
+                        {
+                        "name": "Carrera Sprint",
+                        "info":"F1 TV",
+                        "image": "https://i.blogs.es/aca026/f1-tv-pro-f1-tv-access-formula-1-mexico-streaming/500_333.jpeg",
+                        "url":"https://filemoon.sx/d/vbtjoqlt9evv",
+                        "userAgent": "PlusMediaPlayer/0.0.9",
+                        "isHost":"true",
+                        "online":"true"
+                        },
+                        {
+                            "name": "Qualy",
+                            "info":"DAZN F1",
+                            "image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+                            "url":"https://filemoon.sx/d/rcbgtg5fkxao",
+                            "userAgent": "PlusMediaPlayer/0.0.9",
+                            "isHost":"true",
+                            "online":"true"
+                        },
+                        {
+                            "name": "Qualy",
+                            "info":"F1 TV",
+                            "image": "https://i.blogs.es/aca026/f1-tv-pro-f1-tv-access-formula-1-mexico-streaming/500_333.jpeg",
+                            "url":"https://filemoon.sx/d/rf4axz933fou",
+                            "userAgent": "PlusMediaPlayer/0.0.9",
+                            "isHost":"true",
+                            "online":"true"
+                        },
+                        {
+                            "name": "Carrera",
+                            "info":"DAZN F1",
+                            "image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+                            "url":"https://filemoon.sx/d/loulnsn571za",
+                            "userAgent": "PlusMediaPlayer/0.0.9",
+                            "isHost":"true",
+                            "online":"true"
+                        },
+                        {
+                            "name": "Carrera",
+                            "info":"F1 TV",
+                            "image": "https://i.blogs.es/aca026/f1-tv-pro-f1-tv-access-formula-1-mexico-streaming/500_333.jpeg",
+                            "url":"https://filemoon.sx/d/78i7o870a5nd",
+                            "userAgent": "PlusMediaPlayer/0.0.9",
+                            "isHost":"true",
+                            "online":"true"
+                        }
+                    ]
+            },
+
+            {
+                "name": "GP China",
+                "info":"",
+                "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgshkWBoZ1mNIglppnQvXMMRZ2ZN_Tx195kVf_pOo1Yl37j_tlnlqyNK-0uKrUUzX6b5r9y_jwBDjIQQ6XJ2d3W4asb8HztMBzxiK7upXg4lHwsM9Pk6TySrK2jXZyAP8MYq9x8EsjvNPO-MyPItEByLt4kw751iQseyoTXBo3vqSMWtTssFrWciOtlF67H/w564-h378/China.png",
+                "imageScale": "",
+                "stations":
+                    [
+                        {
+                        "name": "Qualy Sprint",
+                        "info":"DAZN F1",
+                        "image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+                        "url":"https://filemoon.sx/d/gckfpdswoali",
+                        "userAgent": "PlusMediaPlayer/0.0.9",
+                        "isHost":"true",
+                        "online":"true"
+                        },
+                        {
+                        "name": "Qualy Sprint",
+                        "info":"F1 TV",
+                        "image": "https://i.blogs.es/aca026/f1-tv-pro-f1-tv-access-formula-1-mexico-streaming/500_333.jpeg",
+                        "url":"https://filemoon.sx/d/bnj77o00tjz2",
+                        "userAgent": "PlusMediaPlayer/0.0.9",
+                        "isHost":"true",
+                        "online":"true"
+                        },
+                        {
+                        "name": "Carrera Sprint",
+                        "info":"DAZN F1",
+                        "image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+                        "url":"https://filemoon.sx/d/azclv9bfnw6d",
+                        "userAgent": "PlusMediaPlayer/0.0.9",
+                        "isHost":"true",
+                        "online":"true"
+                        },
+                        {
+                        "name": "Carrera Sprint",
+                        "info":"F1 TV",
+                        "image": "https://i.blogs.es/aca026/f1-tv-pro-f1-tv-access-formula-1-mexico-streaming/500_333.jpeg",
+                        "url":"https://filemoon.sx/d/azclv9bfnw6d",
+                        "userAgent": "PlusMediaPlayer/0.0.9",
+                        "isHost":"true",
+                        "online":"true"
+                        },
+                        {
+                            "name": "Qualy",
+                            "info":"DAZN F1",
+                            "image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+                            "url":"https://filemoon.sx/d/a37jhvvhlsxh",
+                            "userAgent": "PlusMediaPlayer/0.0.9",
+                            "isHost":"true",
+                            "online":"true"
+                        },
+                        {
+                            "name": "Qualy",
+                            "info":"F1 TV",
+                            "image": "https://i.ibb.co/jr7VQss/logo-off.png",
+                            "url":"",
+                            "userAgent": "PlusMediaPlayer/0.0.9",
+                            "isHost":"false",
+                            "online":"false"
+                        },
+                        {
+                            "name": "Carrera",
+                            "info":"DAZN F1",
+                            "image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+                            "url":"https://filemoon.sx/d/t5ov3v2u7k63",
+                            "userAgent": "PlusMediaPlayer/0.0.9",
+                            "isHost":"true",
+                            "online":"true"
+                        },
+                        {
+                            "name": "Carrera",
+                            "info":"F1 TV",
+                            "image": "https://i.blogs.es/aca026/f1-tv-pro-f1-tv-access-formula-1-mexico-streaming/500_333.jpeg",
+                            "url":"https://filemoon.sx/d/ni4zes6ko8if",
+                            "userAgent": "PlusMediaPlayer/0.0.9",
+                            "isHost":"true",
+                            "online":"true"
+                        }
+                    ]
+            },
+
+            {
+                "name": "GP Japón",
+                "info":"",
+                "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmU0SOZzBt8i0ectL4kzI6dhKwy1JQVcMlghu5vMYU-pBX2BNT-UQT2-Rd0rEp6pq1gye6oGzuCkVA-BsI4gLX8i5x1hGU7pG0iYSpoLRxthuxbEu2vLTIwEwRqwuqEd_k3i5bI7Bp0Gj0R9vhsimXBc-ff3N35cZ4p96k0KJ7JeWEkN969OclyGUHY9Z5/w624-h415/Jap%C3%B3n.png",
+                "imageScale": "",
+                "stations":
+                    [
+                        {
+                        "name": "Qualy",
+                        "info":"DAZN F1",
+                        "image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+                        "url":"https://bembed.net/v/LQm9OXNPeDex1lg",
+                        "userAgent": "PlusMediaPlayer/0.0.9",
+                        "isHost":"true",
+                        "online":"true"
+                        },
+                        {
+                        "name": "Qualy",
+                        "info":"F1 TV",
+                        "image": "https://i.blogs.es/aca026/f1-tv-pro-f1-tv-access-formula-1-mexico-streaming/500_333.jpeg",
+                        "url":"https://bembed.net/v/KrdZ5kdDqDbxmX4",
+                        "userAgent": "PlusMediaPlayer/0.0.9",
+                        "isHost":"true",
+                        "online":"true"
+                        },
+                        {
+                        "name": "Carrera",
+                        "info":"DAZN F1",
+                        "image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+                        "url":"https://bembed.net/v/pVa4E8MpKLyOkzM",
+                        "userAgent": "PlusMediaPlayer/0.0.9",
+                        "isHost":"true",
+                        "online":"true"
+                        },
+                        {
+                        "name": "Carrera",
+                        "info":"F1 TV",
+                        "image": "https://i.blogs.es/aca026/f1-tv-pro-f1-tv-access-formula-1-mexico-streaming/500_333.jpeg",
+                        "url":"https://bembed.net/v/JzkPxznp3Gkxbyd",
+                        "userAgent": "PlusMediaPlayer/0.0.9",
+                        "isHost":"true",
+                        "online":"true"
+                        }
+                    ]
+            },
+
+            {
+                "name": "GP Australia",
+                "info":"",
+                "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMhQVThRlpM9knMQPE9NtuhbEm-ivE1_lo9pI1I-qStNUbyFRcYFPuLIWU-o7n7d9uGRBCyvfGtBTBtw6l6bLgh-MK-pEx16wjqKd4iWeEJcTDK_MIX9JId5xqAwRZn0Nhiryi_3kuNKhQG-ZolntFnidiY6cmUOuroNWOLEEmY5a7RwDIUIFgGqVTimfA/w513-h257/Australia.PNG",
+                "imageScale": "",
+                "stations":
+                    [
+                        {
+                        "name": "Qualy",
+                        "info":"DAZN F1",
+                        "image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+                        "url":"https://filemoon.sx/d/gve9qltu50kp",
+                        "userAgent": "PlusMediaPlayer/0.0.9",
+                        "isHost":"true",
+                        "online":"true"
+                        },
+                        {
+                        "name": "Qualy",
+                        "info":"F1 TV",
+                        "image": "https://i.blogs.es/aca026/f1-tv-pro-f1-tv-access-formula-1-mexico-streaming/500_333.jpeg",
+                        "url":"https://filemoon.sx/d/wsjbetg7fh3j",
+                        "userAgent": "PlusMediaPlayer/0.0.9",
+                        "isHost":"true",
+                        "online":"true"
+                        },
+                        {
+                        "name": "Carrera",
+                        "info":"DAZN F1",
+                        "image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+                        "url":"https://filemoon.sx/d/5p1y6arz643k",
+                        "userAgent": "PlusMediaPlayer/0.0.9",
+                        "isHost":"true",
+                        "online":"true"
+                        },
+                        {
+                        "name": "Carrera",
+                        "info":"F1 TV",
+                        "image": "https://i.blogs.es/aca026/f1-tv-pro-f1-tv-access-formula-1-mexico-streaming/500_333.jpeg",
+                        "url":"https://filemoon.sx/d/jzex6ixu9lex",
+                        "userAgent": "PlusMediaPlayer/0.0.9",
+                        "isHost":"true",
+                        "online":"true"
+                        }
+                    ]
+            },
+
+            {
+                "name": "GP Arabia Saudí",
+                "info":"",
+                "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjR6R7zFo45BOCCP02tnYPM8XPI9Hj8RR6CZXK1JwnW4yuFS2pa7cDkuVmCe8_ZtdsgaoZ4W9aRegmhS3RGZ-qBKbUdhX40Dpkwh7oubqzktanRWIGeHNX_Y4ykKUO0muKIfkgjk7eO2vhEDH_3AGbG6Y0F7wHg8nDSwntv15CNwkZSaj5JSJv3NhXOznRm/w501-h333/Arabia%20Saudi.PNG",
+                "imageScale": "",
+                "stations":
+                    [
+                        {
+                        "name": "Qualy",
+                        "info":"DAZN F1",
+                        "image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+                        "url":"https://embedmoon.xyz/d/82xj0wm4i4bx",
+                        "userAgent": "PlusMediaPlayer/0.0.9",
+                        "isHost":"true",
+                        "online":"true"
+                        },
+                        {
+                        "name": "Qualy",
+                        "info":"F1 TV",
+                        "image": "https://i.blogs.es/aca026/f1-tv-pro-f1-tv-access-formula-1-mexico-streaming/500_333.jpeg",
+                        "url":"https://embedmoon.xyz/d/v9vri85x2lg2",
+                        "userAgent": "PlusMediaPlayer/0.0.9",
+                        "isHost":"true",
+                        "online":"true"
+                        },
+                        {
+                        "name": "Carrera",
+                        "info":"DAZN F1",
+                        "image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+                        "url":"https://embedmoon.xyz/d/qsb34mw0av4q",
+                        "userAgent": "PlusMediaPlayer/0.0.9",
+                        "isHost":"true",
+                        "online":"true"
+                        },
+                        {
+                        "name": "Carrera",
+                        "info":"F1 TV",
+                        "image": "https://i.blogs.es/aca026/f1-tv-pro-f1-tv-access-formula-1-mexico-streaming/500_333.jpeg",
+                        "url":"https://embedmoon.xyz/d/9yf6gk18jfal",
+                        "userAgent": "PlusMediaPlayer/0.0.9",
+                        "isHost":"true",
+                        "online":"true"
+                        }
+                    ]
+            },
+
+            {
+                "name": "GP Bahrein",
+                "info":"",
+                "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFxD2OhLQqmjttwAV2W-DWv0sAKcZltylW6pK6sU_ceONgp8odxlVqodPtAo4QNBfFvOLVKGUbZsfP-bJzuCcULNnI6GeEh3MFFBApsXQ9N9ZFEuWtf-CEy0JPGm83W2ebD8tpvWWwL1oYrY3O3ZTHMC-O8429NT0jguoTRmscT1jez2bsdMa_7i-ET4if/w522-h313/Bahrein.png",
+                "imageScale": "",
+                "stations":
+                    [
+                        {
+                        "name": "Qualy",
+                        "info":"DAZN F1",
+                        "image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+                        "url":"https://filemoon.sx/d/5ae8etxskq61",
+                        "userAgent": "PlusMediaPlayer/0.0.9",
+                        "isHost":"true",
+                        "online":"true"
+                        },
+                        {
+                        "name": "Qualy",
+                        "info":"F1 TV",
+                        "image": "https://i.blogs.es/aca026/f1-tv-pro-f1-tv-access-formula-1-mexico-streaming/500_333.jpeg",
+                        "url":"https://filemoon.sx/d/gtnhh6gpi6qt",
+                        "userAgent": "PlusMediaPlayer/0.0.9",
+                        "isHost":"true",
+                        "online":"true"
+                        },
+                        {
+                        "name": "Carrera",
+                        "info":"DAZN F1",
+                        "image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+                        "url":"https://filemoon.sx/d/65cslvykuks5",
+                        "userAgent": "PlusMediaPlayer/0.0.9",
+                        "isHost":"true",
+                        "online":"true"
+                        },
+                        {
+                        "name": "Carrera",
+                        "info":"F1 TV",
+                        "image": "https://i.blogs.es/aca026/f1-tv-pro-f1-tv-access-formula-1-mexico-streaming/500_333.jpeg",
+                        "url":"https://filemoon.sx/d/p5urc6w4ttmj",
+                        "userAgent": "PlusMediaPlayer/0.0.9",
+                        "isHost":"true",
+                        "online":"true"
+                        }
+                    ]
+            }
+    ]
+}
