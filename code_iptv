@@ -15,11 +15,57 @@
     }, 
    
     {
-            "name": "Ultm. versión 04/08/2024",
+            "name": "Ultm. versión 01/09/2024",
            "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-           "info": "última versión actualizada el 04/08/2024",
+           "info": "última versión actualizada el 01/09/2024",
            "stations": []
     },
+
+      {
+        "name": "GP Países Bajos",
+        "info":"",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRhcfoJJF-zsfyBCrgiRMh-2lX2ve_8sTWeNnAS_iSILUMiy-2zSXfsfWbCwzXkBgPSzf3pBapJIe0KfIzpyRVQ6hEUoiGXp2mv5eyuhfgNTrU9XeGIda50yrA5OK4ys-rG2326T4W-vX3i3OajV3cIvqRKb12DdNNYBKBh56mhLFf83sIB8agVEbBBPRs/w577-h382/Holanda.PNG",
+        "imageScale": "",
+        "stations":
+            [
+                {
+                "name": "Qualy",
+                "info":"DAZN F1",
+                "image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+                "url":"https://filemoon.sx/d/dsa8qv8sax3h",
+		"userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+		{
+                "name": "Qualy",
+                "info":"F1 TV",
+                "image": "https://i.blogs.es/aca026/f1-tv-pro-f1-tv-access-formula-1-mexico-streaming/500_333.jpeg",
+                "url":"https://filemoon.sx/d/1bani25za7b6",
+		"userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "Carrera",
+                "info":"DAZN F1",
+                "image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+                "url":"https://listeamed.net/v/0DogOGMB3mKxKjM",
+		"userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+		{
+                "name": "Carrera",
+                "info":"F1 TV",
+                "image": "https://i.blogs.es/aca026/f1-tv-pro-f1-tv-access-formula-1-mexico-streaming/500_333.jpeg",
+                "url":"https://listeamed.net/v/b4ZJx21wQ2A52P3",
+		"userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                }
+            ]
+        },
 
     {
         "name": "GP Bélgica",
