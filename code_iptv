@@ -15,13 +15,59 @@
     }, 
    
     {
-            "name": "Ultm. versión 01/09/2024",
+            "name": "Ultm. versión 09/09/2024",
            "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-           "info": "última versión actualizada el 01/09/2024",
+           "info": "última versión actualizada el 09/09/2024",
            "stations": []
     },
 
       {
+        "name": "GP Italia (Monza)",
+        "info":"",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZUZNW1ipjdcX6OpB66u90iXgdzr4dav1n35nxSNOhyH_ZVg-oIUz8ZpIdss-BXSYzIAtbFZ5alGd2De4W9sYFn9gKqnapdeIq3c2RsCPqpu5pCqUL5Jq81g8H2V5yFxNm0Gy9SNw8eF3owRbP3E1Obm-UzcjHcgi45-6FEod44XZ9sjg2MaRdFjWhMgHl/w607-h607/Italia.png",
+        "imageScale": "",
+        "stations":
+            [
+                {
+                "name": "Qualy",
+                "info":"DAZN F1",
+                "image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+                "url":"https://listeamed.net/v/MAlwEMYLDblEJ39",
+		"userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+		{
+                "name": "Qualy",
+                "info":"F1 TV",
+                "image": "https://i.blogs.es/aca026/f1-tv-pro-f1-tv-access-formula-1-mexico-streaming/500_333.jpeg",
+                "url":"https://filemoon.sx/d/91ls8vxirxyh",
+		"userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "Carrera",
+                "info":"DAZN F1",
+                "image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+                "url":"https://filemoon.sx/d/h12cqng2pgup",
+		"userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+		{
+                "name": "Carrera",
+                "info":"F1 TV",
+                "image": "https://i.blogs.es/aca026/f1-tv-pro-f1-tv-access-formula-1-mexico-streaming/500_333.jpeg",
+                "url":"https://filemoon.sx/d/kahqu4jxf57x",
+		"userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                }
+            ]
+	}, 
+
+	{
         "name": "GP Países Bajos",
         "info":"",
         "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRhcfoJJF-zsfyBCrgiRMh-2lX2ve_8sTWeNnAS_iSILUMiy-2zSXfsfWbCwzXkBgPSzf3pBapJIe0KfIzpyRVQ6hEUoiGXp2mv5eyuhfgNTrU9XeGIda50yrA5OK4ys-rG2326T4W-vX3i3OajV3cIvqRKb12DdNNYBKBh56mhLFf83sIB8agVEbBBPRs/w577-h382/Holanda.PNG",
@@ -65,7 +111,7 @@
                 "online":"true"
                 }
             ]
-        },
+	},
 
     {
         "name": "GP Bélgica",
