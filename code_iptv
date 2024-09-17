@@ -1,5 +1,5 @@
 {
-	"name": "DIFERIDOS F1 2024",
+    "name": "DIFERIDOS F1 2024",
     "author": "MoDz",
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8DUs_eptCujTHRwAxJrkaw18XZRMaXNgLzRSKagDuvYAAqlauM0l-QngGK9bK0-f2ItKqMZ62aX-wq4Bp_XTUDni3CYxh9U0t-VfshtE5Sn_4j9jyW7RSBTCoS9s9gu8Yl9FkB7qKFK40VMKFn3PYMcNFX32H1w5oi1ZcCc5-UBk8FyOhAjzYOb4f-G99/w642-h267/invisible.png",
     "info":"IPTV oficial de FUTBOL-ADICTOS para diferidos de F1 2024",
@@ -15,13 +15,59 @@
     }, 
    
     {
-            "name": "Ultm. versión 09/09/2024",
+            "name": "Ultm. versión 17/09/2024",
            "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-           "info": "última versión actualizada el 09/09/2024",
+           "info": "última versión actualizada el 17/09/2024",
            "stations": []
     },
 
       {
+        "name": "GP Azerbaiyán",
+        "info":"",
+        "image": "https://blogger.googleusercontent.com/img/a/AVvXsEgD-bTJwPTtmxFHFFx9-4qCJntqIYWzP15Zwi2qqvXAxkYCk4exAakwJJ5Stb322MhG9k_AHbhCHM0mxrR-bOo0M6ePImCiu40qJG2cuZxeuxkasuqq7Yy4f3fIPoEgQGN-UFK1Pmcb1ytJhyMyOnYPoIEuOg0l6pMg9xPQ29Tc_a1NP0ICHaXJG8Hvs-p_=w666-h333",
+        "imageScale": "",
+        "stations":
+            [
+                {
+                "name": "Qualy",
+                "info":"DAZN F1",
+                "image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+                "url":"https://filemoon.sx/d/zsboa501n712",
+		"userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+		{
+                "name": "Qualy",
+                "info":"F1 TV",
+                "image": "https://i.blogs.es/aca026/f1-tv-pro-f1-tv-access-formula-1-mexico-streaming/500_333.jpeg",
+                "url":"https://filemoon.sx/d/i5lcbfq8el26",
+		"userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "Carrera",
+                "info":"DAZN F1",
+                "image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+                "url":"https://filemoon.sx/d/iy0cges61z01",
+		"userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+		{
+                "name": "Carrera",
+                "info":"F1 TV",
+                "image": "https://i.blogs.es/aca026/f1-tv-pro-f1-tv-access-formula-1-mexico-streaming/500_333.jpeg",
+                "url":"https://filemoon.sx/d/xhn85mi1kx8c",
+		"userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                }
+            ]
+	},
+
+	{
         "name": "GP Italia (Monza)",
         "info":"",
         "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZUZNW1ipjdcX6OpB66u90iXgdzr4dav1n35nxSNOhyH_ZVg-oIUz8ZpIdss-BXSYzIAtbFZ5alGd2De4W9sYFn9gKqnapdeIq3c2RsCPqpu5pCqUL5Jq81g8H2V5yFxNm0Gy9SNw8eF3owRbP3E1Obm-UzcjHcgi45-6FEod44XZ9sjg2MaRdFjWhMgHl/w607-h607/Italia.png",
