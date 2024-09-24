@@ -15,13 +15,59 @@
     }, 
    
     {
-            "name": "Ultm. versión 17/09/2024",
+            "name": "Ultm. versión 25/09/2024",
            "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-           "info": "última versión actualizada el 17/09/2024",
+           "info": "última versión actualizada el 25/09/2024",
            "stations": []
     },
 
       {
+        "name": "GP Singapur",
+        "info":"",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgf6-ytTcOAzOWnG429co92TH3LYBhKK4Ue3CE_rjboHT9-svIdCxvGi6tkY54nYIxSeYkWTaFKL5N7vdsegwcn6eyGJ6gkuMlZyyb-XGNvIZPuxG0Vphtm0GyMWimDRbqCnD5ws3U2mdp-pchyphenhyphenKzojSjaRDlXAtxjzO72D-OdN6YL28_5uMJ1UXz-xn86r/w666-h396/Singapur.PNG",
+        "imageScale": "",
+        "stations":
+            [
+                {
+                "name": "Qualy",
+                "info":"DAZN F1",
+                "image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+                "url":"https://filemoon.sx/d/nr1p6o2lh31y",
+		"userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+		{
+                "name": "Qualy",
+                "info":"F1 TV",
+                "image": "https://i.blogs.es/aca026/f1-tv-pro-f1-tv-access-formula-1-mexico-streaming/500_333.jpeg",
+                "url":"https://filemoon.sx/d/hkjkx48k0zv4",
+		"userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "Carrera",
+                "info":"DAZN F1",
+                "image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+                "url":"https://filemoon.sx/d/swbocm0qxif7",
+		"userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+		{
+                "name": "Carrera",
+                "info":"F1 TV",
+                "image": "https://i.blogs.es/aca026/f1-tv-pro-f1-tv-access-formula-1-mexico-streaming/500_333.jpeg",
+                "url":"https://filemoon.sx/d/d6f9nbeypwfu",
+		"userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                }
+            ]
+	}, 
+
+	{
         "name": "GP Azerbaiyán",
         "info":"",
         "image": "https://blogger.googleusercontent.com/img/a/AVvXsEgD-bTJwPTtmxFHFFx9-4qCJntqIYWzP15Zwi2qqvXAxkYCk4exAakwJJ5Stb322MhG9k_AHbhCHM0mxrR-bOo0M6ePImCiu40qJG2cuZxeuxkasuqq7Yy4f3fIPoEgQGN-UFK1Pmcb1ytJhyMyOnYPoIEuOg0l6pMg9xPQ29Tc_a1NP0ICHaXJG8Hvs-p_=w666-h333",
