@@ -15,11 +15,57 @@
     }, 
    
     {
-            "name": "Ultm. versión 19/11/2024",
+            "name": "Ultm. versión 29/11/2024",
            "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-           "info": "última versión actualizada el 19/11/2024",
+           "info": "última versión actualizada el 29/11/2024",
            "stations": []
     },
+
+	{
+        "name": "GP EEUU (Las Vegas)",
+        "info":"",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitjO50rsB7xyM9n_TzbiljM1T3mUYJ873FMe_P_LM8RbVgtF8xJDde4FNBvmzKYu7t6VFnbAIMK-Cg11aj1TlGZRfPu_83jgSvgkXSMiSRZDx1vilabxCXtJfXYFuuviRNeaudj3A6H1zqKX4CKRZt4UwEX8Uexa-MHTgXWpnxbMcKOreBygh6Dx8flrCu/w582-h307/EEUU.png",
+        "imageScale": "",
+        "stations":
+            [
+                {
+                "name": "Qualy",
+                "info":"DAZN F1",
+                "image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+                "url":"https://filemoon.sx/d/506tkhvq8w3s",
+		"userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+		{
+                "name": "Qualy",
+                "info":"F1 TV",
+                "image": "https://i.ibb.co/jr7VQss/logo-off.png",
+                "url":"",
+		"userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"false",
+                "online":"true"
+                },
+                {
+                "name": "Carrera",
+                "info":"DAZN F1",
+                "image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+                "url":"https://filemoon.sx/d/nzhhdhqyzwas",
+		"userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"false",
+                "online":"true"
+                },
+		{
+                "name": "Carrera",
+                "info":"F1 TV",
+                "image": "https://i.blogs.es/aca026/f1-tv-pro-f1-tv-access-formula-1-mexico-streaming/500_333.jpeg",
+                "url":"https://filemoon.sx/d/tw5axuxfed2m",
+		"userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                }
+            ]
+	},
 
 	{
                 "name": "GP Brasil",
